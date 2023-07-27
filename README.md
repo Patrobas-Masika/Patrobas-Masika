@@ -10,6 +10,10 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📄 Certifications: </h2>
+  
+- <a href="https://www.credly.com/badges/41c7d64c-88ea-4a59-a293-7340f96fba76/public_url">CCNA: Enterprise Networking, Security and Automation</a>
+  
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/patrobas-masika"> <img align="left" alt="PatrobasMasika | LinkedIn" src="Social-Media-Icons/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="22px"/> </a>
 
