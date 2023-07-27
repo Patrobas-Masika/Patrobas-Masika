@@ -2,8 +2,7 @@
 
 <h2>💻 Machine Learning Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <a href="https://github.com/Patrobas-Masika/AUGV-Object-Detection-Model">Tomato Leaf Diseases Detection Model</a>
 
 <h2>📡 Network Engineering Projects:</h2>
 
