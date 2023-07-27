@@ -11,7 +11,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
-<img align="left" alt="PatrobasMasika | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />
+<img align="left" alt="PatrobasMasika | LinkedIn" src="Social-Media-Icons/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="22px" />
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
