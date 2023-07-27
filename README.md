@@ -12,7 +12,10 @@
 
 <h2>📄 Certifications: </h2>
   
-- <a href="https://www.credly.com/badges/41c7d64c-88ea-4a59-a293-7340f96fba76/public_url">CCNA: Enterprise Networking, Security and Automation</a>
+- <a href="https://drive.google.com/file/d/1f3OncQuk9O8rE7lvtAV98DBFXRZzdnlR/view?usp=sharing">CCNA: Introduction to Networks</a>
+- <a href="https://drive.google.com/file/d/1JZuSm6Jbbu1STqz7gH1Au6juj6BPPKb3/view?usp=sharing">CCNA: Routing and Switching Essentials</a>
+- <a href="https://drive.google.com/file/d/15XdoOaFe1Kgsdi6Fm7LAhBdW9QbAfGH4/view?usp=sharing">CCNA: Scaling Networks</a>
+- <a href="https://www.credly.com/badges/41c7d64c-88ea-4a59-a293-7340f96fba76/public_">CCNA: Enterprise Networking, Security and Automation</a>
   
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/patrobas-masika"> <img align="left" alt="PatrobasMasika | LinkedIn" src="Social-Media-Icons/linkedin-logo-linkedin-symbol-linkedin-icon-free-free-vector.jpg" width="22px"/> </a>
