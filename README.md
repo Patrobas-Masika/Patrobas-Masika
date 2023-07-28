@@ -4,11 +4,6 @@
 
 - <a href="https://github.com/Patrobas-Masika/AUGV-Object-Detection-Model">Tomato Leaf Diseases Detection Model</a>
 
-<h2>📡 Network Engineering Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
 <h2>📄 Certifications: </h2>
   
 - <a href="https://drive.google.com/file/d/1f3OncQuk9O8rE7lvtAV98DBFXRZzdnlR/view?usp=sharing">CCNA: Introduction to Networks</a>
